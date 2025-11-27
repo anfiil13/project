@@ -1,1 +1,2 @@
-new text in the main branch
+the final text after conflict
+which contains information from both main and div
